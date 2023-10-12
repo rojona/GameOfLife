@@ -1,1 +1,2 @@
-# GameOfLife
+RJ's Game of Life
+
